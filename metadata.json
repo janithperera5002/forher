@@ -1,0 +1,8 @@
+{
+  "name": "Sound & Petals",
+  "description": "An interactive 3D botanical vinyl conservatory and customizable musical gift webpage crafted with Three.js, Lyria music generation, and Nano Banana artwork.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
